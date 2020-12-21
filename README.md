@@ -1,8 +1,6 @@
-# CoronaSafe Engineering Fellowship Test Problem
+# Command Line Todo app
 
-Thanks for applying to the CoronaSafe Engineering fellowship!
-
-In this step we want to see how you implement a command-line (CLI) program that lets you manage your todos.
+In this step we implement a command-line (CLI) program that lets you manage your todos.
 
 The specification for this problem is written down as tests. Since we haven’t actually implemented anything, the tests are currently failing. You have to solve the problem by implementing the application and getting all the tests to pass.
 
